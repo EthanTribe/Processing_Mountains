@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/86515484/126630106-cf9c7db9-85d9-4959-b654-746f08ecc23d.mp4
-
 # Processing_Mountains
 Generative art resembling mountains, made using Processing.py.
 
